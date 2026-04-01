@@ -1,0 +1,11 @@
+{
+	"autodeskProduct": "Fusion360",
+	"type": "script",
+	"author": "omm-narayan",
+	"version": "1.0.0",
+	"description":{
+		"":	"Flattens all components to bodies in root, preserving assembled positions"
+	},
+	"supportedOS": "windows|mac",
+	"editEnabled": true
+}
